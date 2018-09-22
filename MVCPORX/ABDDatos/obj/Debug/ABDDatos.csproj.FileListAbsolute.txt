@@ -1,0 +1,7 @@
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\ABDDatos\bin\Debug\ABDDatos.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\ABDDatos\bin\Debug\ABDDatos.pdb
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\ABDDatos\obj\Debug\ABDDatos.csprojResolveAssemblyReference.cache
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\ABDDatos\obj\Debug\ABDDatos.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\ABDDatos\obj\Debug\ABDDatos.pdb
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\ABDDatos\bin\Debug\CapaModeloEntidad.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\ABDDatos\bin\Debug\CapaModeloEntidad.pdb

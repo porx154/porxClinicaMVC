@@ -1,0 +1,10 @@
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\bin\Debug\CapaModeloNegocio.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\bin\Debug\CapaModeloNegocio.pdb
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\bin\Debug\ABDDatos.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\bin\Debug\CapaModeloEntidad.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\bin\Debug\ABDDatos.pdb
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\bin\Debug\CapaModeloEntidad.pdb
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\obj\Debug\CapaModeloNegocio.csprojResolveAssemblyReference.cache
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\obj\Debug\CapaModeloNegocio.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloNegocio\obj\Debug\CapaModeloNegocio.pdb

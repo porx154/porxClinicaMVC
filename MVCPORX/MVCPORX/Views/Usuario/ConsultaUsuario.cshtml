@@ -1,0 +1,93 @@
+﻿@model IEnumerable<CapaModeloEntidad.clsentempleado>
+
+@{
+    ViewBag.Title = "Consultar Empleado";
+}
+
+<h2>Consultar Emplead</h2>
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CodEmpleado)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.NomEmpleado)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.ApeEmpleado)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.DirEmpleado)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CelEmpleado)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.EmailEmpleado)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.FecIngEmpleado)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.FecNacEmpleado)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CargoEmpleado)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CodEmpleado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.NomEmpleado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ApeEmpleado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DirEmpleado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CelEmpleado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.EmailEmpleado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.FecIngEmpleado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.FecNacEmpleado)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CargoEmpleado)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Agregar Cuenta", "Edit", new { id=item.CodEmpleado },new { @class= "btn btn-dark btn-rounded btn-fw" }) 
+                                    @*@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+
+                   
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+

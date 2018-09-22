@@ -1,0 +1,4 @@
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloEntidad\bin\Debug\CapaModeloEntidad.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloEntidad\bin\Debug\CapaModeloEntidad.pdb
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloEntidad\obj\Debug\CapaModeloEntidad.dll
+C:\Users\porx_\Desktop\MVCPORXCLINICA\MVCPORX\CapaModeloEntidad\obj\Debug\CapaModeloEntidad.pdb
